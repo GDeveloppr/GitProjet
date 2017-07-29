@@ -1,1 +1,3 @@
 je suis entrain de creer un nouveau fichier que je désir rajouter à mon repository git
+ce fichier la je suis entrain de le modifier histoir de voir comment il fonction en version graphique
+et de la je pourais voir si cette interface graphiquenpeux m'afficher les modifications
